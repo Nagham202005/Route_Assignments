@@ -1,0 +1,14 @@
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\bin\Debug\net8.0\Assignment.exe
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\bin\Debug\net8.0\Assignment.deps.json
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\bin\Debug\net8.0\Assignment.dll
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\bin\Debug\net8.0\Assignment.pdb
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\Assignment.dll
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\Assignment.pdb
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+D:\Documents\.NET Route\Route Backend ASP .NET\Assignment1 C#\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment.dll
